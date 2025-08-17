@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, bem vindo ao meu README : )
 
-<!--
-**samuelsilva-debug/samuelsilva-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui é onde você encontra alguns dos meus projetos, formações e interesses. Fique à vontade para clicar em um dos links se quiser saber um pouco mais sobre o que estou fazendo ou entrar em contato para conversar. Gosto de ouvir as experiências de outros, então se possível, não deixe de dizer oi 👋.
 
-Here are some ideas to get you started:
+## Linguagens Conhecidas 🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS5-1572B6?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Atualmente Aprendendo
+- Python
+- Lógica de Redes
+- Segurança da Informação
+- Inglês (Nível Atual: B1)
+
+## Minhas Redes
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/samuel-tavares-143947345)
+[![My Skills](https://skillicons.dev/icons?i=codepen)](https://codepen.io/your-work)
+
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House

@@ -17,10 +17,5 @@ Aqui é onde você encontra alguns dos meus projetos, formações e interesses. 
 - Segurança da Informação
 - Inglês (Nível Atual: B1)
 
-## Minhas Redes
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/samuel-tavares-143947345)
-[![My Skills](https://skillicons.dev/icons?i=codepen)](https://codepen.io/your-work)
-
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
